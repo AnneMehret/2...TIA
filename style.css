@@ -1,0 +1,55 @@
+#sejabem-vindoaonossosite {
+  background-color: Peru;
+  color: black;
+  padding: 40px;
+  text-align: center;
+} 
+
+p{
+  font-family:gotham;
+    font-size:100%;
+}
+h3{
+  color:sienna;
+  font- family:gotham;
+  font-size:130%; 
+}
+h3{
+  border: 2px solid powderblue;
+  margin: 7%;
+  padding:2%;
+}
+body{
+width: 400px;
+  height: 200px;
+  border: 1px solid;
+  background-image: url(fundo.imagem.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background:BurlyWood;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.conclusao {
+  background-color: none;
+  color: grey21;
+  border: none;
+}
